@@ -1,0 +1,4 @@
+ELIMIKA TIBA Android WebView Project
+URL: https://tiba.elimika.co.tz/
+Application ID: tz.co.elimika.tiba
+Version: 1.0.0

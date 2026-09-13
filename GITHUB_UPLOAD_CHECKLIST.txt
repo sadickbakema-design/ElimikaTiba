@@ -1,0 +1,10 @@
+ELIMIKA TIBA — GitHub Upload Checklist
+
+1. Extract this ZIP.
+2. Create a new GitHub repository.
+3. Upload the CONTENTS of the extracted ELIMIKA_TIBA_Android folder to the repository root.
+4. Confirm .github/workflows/build-apk.yml exists.
+5. Open Actions -> Build ELIMIKA TIBA APK -> Run workflow.
+6. Download the ELIMIKA-TIBA-APK artifact after the build completes.
+
+No Android Studio is required.
